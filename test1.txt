@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is D8C2-7B4A
+
+ Directory of C:\Users\san87\OneDrive\Desktop\My Project
+
+07/12/2021  04:44 AM    <DIR>          .
+07/12/2021  04:44 AM    <DIR>          ..
+07/12/2021  04:44 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  14,580,166,656 bytes free
